@@ -1,0 +1,15 @@
+cart_id,user_id,date,product_id,quantity,title,category,price,line_revenue
+4,3,2020-01-01 00:00:00+00:00,1,4,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,109.95,439.8
+2,1,2020-01-02 00:00:00+00:00,2,4,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,22.3,89.2
+2,1,2020-01-02 00:00:00+00:00,1,10,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,109.95,1099.5
+2,1,2020-01-02 00:00:00+00:00,5,2,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,695.0,1390.0
+3,2,2020-03-01 00:00:00+00:00,1,2,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,109.95,219.9
+3,2,2020-03-01 00:00:00+00:00,9,1,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,64.0,64.0
+5,3,2020-03-01 00:00:00+00:00,7,1,White Gold Plated Princess,jewelery,9.99,9.99
+5,3,2020-03-01 00:00:00+00:00,8,1,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.99,10.99
+6,4,2020-03-01 00:00:00+00:00,10,2,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,109.0,218.0
+6,4,2020-03-01 00:00:00+00:00,12,3,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,114.0,342.0
+7,8,2020-03-01 00:00:00+00:00,18,1,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.85,9.85
+1,1,2020-03-02 00:00:00+00:00,1,4,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,109.95,439.8
+1,1,2020-03-02 00:00:00+00:00,2,1,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,22.3,22.3
+1,1,2020-03-02 00:00:00+00:00,3,6,Mens Cotton Jacket,men's clothing,55.99,335.94
