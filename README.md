@@ -3,6 +3,9 @@
 ## 📖 Overview
 This project simulates the role of a **data scientist at an e-commerce company**. The goal is to analyze customer behavior, design and evaluate an **A/B experiment**, and build predictive **machine learning models** to forecast customer purchasing propensity.
 
+## Project Framing
+What kind of products selling? What trends product sell? 
+
 It covers the **entire data science workflow**:
 - API → Data Collection
 - Cleaning & Feature Engineering
