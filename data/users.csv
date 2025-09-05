@@ -1,0 +1,11 @@
+user_id,email,username,firstname,lastname,city,zipcode
+1,john@gmail.com,johnd,john,doe,Kilcoole,12926-3874
+2,morrison@gmail.com,mor_2314,david,morrison,Kilcoole,12926-3874
+3,kevin@gmail.com,kevinryan,kevin,ryan,Cullman,29567-1452
+4,don@gmail.com,donero,don,romer,San Antonio,98234-1734
+5,derek@gmail.com,derek,derek,powell,San Antonio,80796-1234
+6,david_r@gmail.com,david_r,david,russell,El Paso,12346-0456
+7,miriam@gmail.com,snyder,miriam,snyder,Fresno,96378-0245
+8,william@gmail.com,hopkins,william,hopkins,Mesa,96378-0245
+9,kate@gmail.com,kate_h,kate,hale,Miami,96378-0245
+10,jimmie@gmail.com,jimmie_k,jimmie,klein,Fort Wayne,10256-4532
